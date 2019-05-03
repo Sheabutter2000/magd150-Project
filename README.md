@@ -1,43 +1,7 @@
-## Welcome to GitHub Pages
+# **Ryan Shea's Github Assignment!**
 
-You can use the [editor on GitHub](https://github.com/Sheabutter2000/magd150-Project/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sheabutter2000/magd150-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-Project 4: Simple Animation, 
-Project 5: Work with buttons, 
-Project 6: Work with classes and functions, 
-Project 8: Work with text, 
-Project 7: Work with vectors
+[**Project 4:**](https://github.com/Sheabutter2000/magd150-Project/blob/gh-pages/s19magd150lab04_Shea/s19magd150lab04_Shea.pde)Simple Animation, featuring a scene on a beach.
+[**Project 5:**](https://github.com/Sheabutter2000/magd150-Project/blob/gh-pages/s19magd150lab05_Shea/s19magd150lab05_Shea.pde)Work with buttons, featuring a tv with buttons to click to show different shows.
+[**Project 6:**](https://github.com/Sheabutter2000/magd150-Project/blob/gh-pages/s19magd150lab06_Shea/s19magd150lab06_Shea.pde)Work with classes and functions, a storm above a hill with a tree.
+[**Project 8:**](https://github.com/Sheabutter2000/magd150-Project/blob/gh-pages/s19magd150_lab08_Shea/s19magd150_lab08_Shea.pde)Work with text, an inspirational poster. 
+[**Project 7:**](https://github.com/Sheabutter2000/magd150-Project/blob/gh-pages/s19_magd150_lab07_Shea/s19_magd150_lab07_Shea.pde)Work with vectors, a carnival.
