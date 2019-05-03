@@ -36,8 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-Project 4: Simple Animation
-Project 5: Work with buttons
-Project 6: Work with classes and functions
-Project 8: Work with text
+Project 4: Simple Animation, 
+Project 5: Work with buttons, 
+Project 6: Work with classes and functions, 
+Project 8: Work with text, 
 Project 7: Work with vectors
